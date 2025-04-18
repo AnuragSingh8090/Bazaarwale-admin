@@ -7,6 +7,8 @@ import Customers from "./pages/Customers/Customers";
 import Analytics from "./pages/Analytics/Analytics";
 import Settings from "./pages/Settings/Settings";
 
+
+// this is for test purpose only
 function App() {
   return (
     <div className="flex justify-end">
